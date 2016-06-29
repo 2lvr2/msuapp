@@ -1,0 +1,2 @@
+# msuapp
+lomonosov MSU application
